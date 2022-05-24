@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jasper Lee
+- 👀 I’m interested in Frontend Framework such as React and Angular
+- 🌱 I’m currently learning React
+- 📫 Reach me at jasperltz93@gmail.com
